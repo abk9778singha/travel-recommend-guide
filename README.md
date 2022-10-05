@@ -1,6 +1,7 @@
 # travel-recommendation 
 
-Do you love travelling ? You would find some good recommendations for all the genre. Made using React JS with ❤️
+Do you love travelling ? You would find some good recommendations for all the genre.
+Made using React JS with ❤️
 
 ## Demo -
 
@@ -24,7 +25,7 @@ This is an travel recommendation app built using React, JavaScript and CSS for s
 
 ## Screenshots -
 
-<img src="/img/travelrecommend.png" width="500" height="500"/>
+<img src="/img/travelrecommendation.png" width="500" height="500"/>
 
 
 ## Author -
