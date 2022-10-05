@@ -1,11 +1,11 @@
 # travel-recommendation 
 
-Do you love travelling ? You would find some good recommendations for all the genre.
-Made using React JS with ❤️
+Do you love travelling ? You would find some good recommendations for 
+all the genre. Made using React JS with ❤️
 
 ## Demo -
 
-You can view this app live here - [Demo](https://)
+You can view this app live here - [Demo](https://travel-recommendguide-made-easy.netlify.app/)
 
 ## Tech Stack -
 
