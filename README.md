@@ -16,10 +16,10 @@ React JS, JavaScript, CSS for styling
 This is an travel recommendation app built using React, JavaScript and CSS for styling. It suggests users different places of travel based on their selected choice.
 
  Features -
-- User can choose amongst 3 genres of travel namely wildlife ,religious and cultural
+- Users can choose amongst 3 genres of travel namely wildlife ,religious and cultural.
 - When the user clicks on one category, display a list of items in that category with its details.
-- Description and ratings for each selected choice
-- Display the name of the emoji on input in the search box.
+- Description and ratings for each selected choice.
+
 
 
 ## Screenshots -
