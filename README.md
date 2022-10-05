@@ -1,7 +1,7 @@
 # travel-recommendation 
 
-Do you love travelling ? You would find some good recommendations for 
-all the genre. Made using React JS with ❤️
+Do you love travelling ? You would find some good recommendations for all the genre.<br/>
+Made using React JS with ❤️
 
 ## Demo -
 
